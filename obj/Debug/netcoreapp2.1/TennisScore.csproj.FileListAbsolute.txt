@@ -1,0 +1,14 @@
+/Users/oomusou/Code/CSharp/TennisScore/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/oomusou/Code/CSharp/TennisScore/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/oomusou/Code/CSharp/TennisScore/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/oomusou/Code/CSharp/TennisScore/bin/Debug/netcoreapp2.1/TennisScore.deps.json
+/Users/oomusou/Code/CSharp/TennisScore/bin/Debug/netcoreapp2.1/TennisScore.runtimeconfig.json
+/Users/oomusou/Code/CSharp/TennisScore/bin/Debug/netcoreapp2.1/TennisScore.runtimeconfig.dev.json
+/Users/oomusou/Code/CSharp/TennisScore/bin/Debug/netcoreapp2.1/TennisScore.dll
+/Users/oomusou/Code/CSharp/TennisScore/bin/Debug/netcoreapp2.1/TennisScore.pdb
+/Users/oomusou/Code/CSharp/TennisScore/obj/Debug/netcoreapp2.1/TennisScore.csprojAssemblyReference.cache
+/Users/oomusou/Code/CSharp/TennisScore/obj/Debug/netcoreapp2.1/TennisScore.csproj.CoreCompileInputs.cache
+/Users/oomusou/Code/CSharp/TennisScore/obj/Debug/netcoreapp2.1/TennisScore.AssemblyInfoInputs.cache
+/Users/oomusou/Code/CSharp/TennisScore/obj/Debug/netcoreapp2.1/TennisScore.AssemblyInfo.cs
+/Users/oomusou/Code/CSharp/TennisScore/obj/Debug/netcoreapp2.1/TennisScore.dll
+/Users/oomusou/Code/CSharp/TennisScore/obj/Debug/netcoreapp2.1/TennisScore.pdb
